@@ -5,6 +5,7 @@ NOTE: project not actively being worked on
 
 # Repo Structure
 ./app contains the desktop code
+
 ./hardware contains the microcontroller code
 
 CAD, wiring, etc, can be found using the links below. 
